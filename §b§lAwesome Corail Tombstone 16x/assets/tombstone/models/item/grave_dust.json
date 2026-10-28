@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tombstone:items/grave_dust",
+    "layer1": "tombstone:items/grave_dust_tint"
+  }
+}
